@@ -3,3 +3,6 @@ div{
     padding: 30px;
     text-align: center;
 }
+div:nth-of-type(odd){
+    background-color: burlywood;
+}
